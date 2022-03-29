@@ -11,5 +11,6 @@ int main(int argc, const char * argv[])
 {
     // insert code here...
     std::cout << "Hello, Git2!\n";
+    std::cout<<"Now with new background color, red."<<std::endl;
     return 0;
 }
